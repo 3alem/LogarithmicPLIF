@@ -32,6 +32,11 @@ Run :
 ```
 
 
+## Data :
+
+The N-MNIST dataset is publicly available at original N-MNIST 
+https://www.garrickorchard.com/datasets/n-mnist
+
 
 ## Documentation
 
